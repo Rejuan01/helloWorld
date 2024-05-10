@@ -1,4 +1,4 @@
 # Hello Bro! 
-First repository
+First repository in github
 <br>
 Author - Rejuan Hossen
